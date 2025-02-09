@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence | E-Commerce | Fullstack developer</h3>
 <img align="right" alt="coding" width="1100" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<h3 align="center">🌐 Socials:</h3>
+<h2 align="center">🌐 Socials </h2>
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____wonders__of__nature_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arifhasan2022) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20401047) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SMArifcap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@programmingstudent) 
 
