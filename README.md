@@ -5,7 +5,7 @@
 <h1 align="center">🌐 Socials </h1>
 <div align="center">
 
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/____wonders__of__nature_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
